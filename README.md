@@ -26,6 +26,6 @@ npm run serve
 ```bash
 cd <pasta do projeto>
 
-# Comando para rodar o serviço
+# Comando para Buildar
 npm rum build
 ```
